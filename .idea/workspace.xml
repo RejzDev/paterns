@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9561c33-7262-46ae-8a27-c200709f9d4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/paterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/Chair.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/FurnitureFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/ModernChair.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/ModernFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/ModernTable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/Table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/VictorianChair.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/VictorianFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/VictorianTable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractFactory/clientCode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/BuilderProductA.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/BuilderProductB.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/Director.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Builder/clientCode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/Logistic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/RoadLogistics.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/SeaLogistics.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/Ship.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/Transport.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/Truck.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/clientCode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prototype/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Singleton.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +18,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" show_user_defined_constants="false" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1y7lrdtI1rmytwO2wzUhN5iX7O9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -69,13 +31,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../modules/php/PHP_7.4/php.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\OpenServer\domains\paterns" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="clientCode.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Builder/clientCode.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.clientCode.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -87,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631610706091</updated>
-      <workItem from="1631610707481" duration="3368000" />
+      <workItem from="1631610707481" duration="13010000" />
     </task>
     <servers />
   </component>
@@ -95,6 +67,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="911" y="219" key="#CLI_Interpreters" timestamp="1631618342118">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="911" y="219" key="#CLI_Interpreters/0.30.1920.1050@0.30.1920.1050" timestamp="1631618342118" />
     <state x="1287" y="271" key="#com.intellij.ide.util.MemberChooser" timestamp="1631611207782">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -107,6 +83,42 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="1112" y="128" key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveRelatedNamespacesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1631610951074" />
+    <state x="1111" y="319" key="FileChooserDialogImpl" timestamp="1631616143518">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1111" y="319" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1631616143518" />
+    <state width="916" height="338" key="GridCell.Tab.0.bottom" timestamp="1631636471457">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471457" />
+    <state width="916" height="338" key="GridCell.Tab.0.center" timestamp="1631636471457">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471457" />
+    <state width="916" height="338" key="GridCell.Tab.0.left" timestamp="1631636471457">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471457" />
+    <state width="916" height="338" key="GridCell.Tab.0.right" timestamp="1631636471457">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471457" />
+    <state width="916" height="338" key="GridCell.Tab.1.bottom" timestamp="1631636471458">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.1.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471458" />
+    <state width="916" height="338" key="GridCell.Tab.1.center" timestamp="1631636471458">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.1.center/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471458" />
+    <state width="916" height="338" key="GridCell.Tab.1.left" timestamp="1631636471458">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.1.left/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471458" />
+    <state width="916" height="338" key="GridCell.Tab.1.right" timestamp="1631636471458">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="916" height="338" key="GridCell.Tab.1.right/0.30.1920.1050@0.30.1920.1050" timestamp="1631636471458" />
     <state x="1250" y="354" key="NewPhpClassDialog" timestamp="1631613366070">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -115,5 +127,17 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="1286" y="474" key="NewPhpFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1631613965461" />
+    <state x="783" y="206" width="1022" height="715" key="SettingsEditor" timestamp="1631618363090">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="783" y="206" width="1022" height="715" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1631618363090" />
+    <state x="985" y="209" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1631616264179">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="985" y="209" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.30.1920.1050@0.30.1920.1050" timestamp="1631616264179" />
+    <state x="0" y="30" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1631618214424">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="30" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1631618214424" />
   </component>
 </project>

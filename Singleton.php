@@ -7,6 +7,8 @@
         private static $instance;
         //private $feald;
         
+        
+        // Коментар
         private function __construct()
         {
         }
