@@ -5,7 +5,7 @@
     
     require_once '../vendor/autoload.php';
     
-    //Комент
+    //Коме
     function clientCode(Logistic $logistic)
     {
         $logistic->planDelivery();

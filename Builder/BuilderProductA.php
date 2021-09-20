@@ -4,6 +4,8 @@
     namespace paterns\Builder;
     
     
+    use paterns\Builder\Product;
+
     class BuilderProductA extends BuilderProduct
     {
     
