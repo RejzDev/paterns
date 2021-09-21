@@ -2,6 +2,8 @@
     
     namespace paterns;
     
+    // Coment
+    
     class Singleton
     {
         private static $instance;
