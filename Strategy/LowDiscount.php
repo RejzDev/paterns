@@ -4,7 +4,7 @@
     namespace paterns\Strategy;
     
     
-    class lowDiscount implements Strategy
+    class LowDiscount implements Strategy
     {
         private $rate = 5;
         

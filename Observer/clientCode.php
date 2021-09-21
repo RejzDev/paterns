@@ -13,3 +13,4 @@
     $dolar->setPrice(25);
     
     print_r($dolarObserver->getPriceLog());
+    

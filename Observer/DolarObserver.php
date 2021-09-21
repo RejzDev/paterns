@@ -5,8 +5,9 @@
     
     
     use SplSubject;
+    use SplObserver;
 
-    class DolarObserver implements \SplObserver
+    class DolarObserver implements SplObserver
     {
         private array $priceLog = [];
         

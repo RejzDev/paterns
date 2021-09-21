@@ -28,9 +28,9 @@
         public function productDiscount()
         {
             if ($this->price >=200){
-                $discount = new highDiscount();
+                $discount = new HighDiscount();
             } else {
-                $discount = new lowDiscount();
+                $discount = new LowDiscount();
             }
             
             $discount->countDiscount($this->price);

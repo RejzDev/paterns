@@ -6,8 +6,9 @@
     
     use SplObserver;
     use SplObjectStorage;
+    use SplSubject;
 
-    class Dolar implements \SplSubject
+    class Dolar implements SplSubject
     {
         private $price;
         private SplObjectStorage $observers;
